@@ -9,8 +9,6 @@ PunaOS is a Command-Line Interface (CLI) Emulator that simulates a basic operati
 - Supports 15 commands for file and directory management.
 - Implements User Account Control (UAC) with password protection.
 - Self-destruct feature with a unique user-set death code.
-- Checks for existence of `.sss` files and sets a default password during first-time setup.
-
 
 ### Prerequisites
 
